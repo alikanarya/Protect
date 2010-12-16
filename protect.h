@@ -1,3 +1,8 @@
+/*
+version 1.0
+Ali Kanarya
+*/
+
 #ifndef PROTECT_H
 #define PROTECT_H
 #include <QtNetwork/QNetworkInterface>
