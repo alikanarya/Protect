@@ -57,7 +57,7 @@ public:
     QString reconHardwareAdress();//
     void genKey();      //
     bool checkKey();    //
-    void checkLicence();
+    void checkLicence();//
     void genUUID();
 
     QString makeReport();
