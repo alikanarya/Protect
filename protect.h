@@ -55,8 +55,8 @@ public:
     void genPrivateKey();                       // generate private key for hardware address
     void genKeysLists();                        //
     QString reconHardwareAdress();//
-    void genKey();//
-    bool checkKey();
+    void genKey();      //
+    bool checkKey();    //
     void checkLicence();
     void genUUID();
 
