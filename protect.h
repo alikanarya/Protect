@@ -1,4 +1,4 @@
-/*
+ï»¿/*
 version 1.0
 Ali Kanarya
 */
@@ -15,11 +15,11 @@ Ali Kanarya
 #define _LIC3   3   // not valid hardware
 
 #define _LIC_FILE   "author.lic"
-#define _LIC_MSG0   "Lisans dosyası bulunamadı"
-#define _LIC_MSG1   "Lisans geçersiz. Her bilgisayar için ayrı lisans alınmalıdır."
-#define _LIC_MSG2   "Haberleşme için ağ kartı bulunamadı, program kapatılacak."
-#define _LIC_MSG3   "Donanım geçersiz"
-#define _LIC_MSG4   "Lisans geçerli"
+#define _LIC_MSG0   "Lisans dosyasÄ± bulunamadÄ±"
+#define _LIC_MSG1   "Lisans geÃ§ersiz. Her bilgisayar iÃ§in ayrÄ± lisans alÄ±nmalÄ±dÄ±r."
+#define _LIC_MSG2   "HaberleÅŸme iÃ§in aÄŸ kartÄ± bulunamadÄ±, program kapatÄ±lacak."
+#define _LIC_MSG3   "DonanÄ±m geÃ§ersiz"
+#define _LIC_MSG4   "Lisans geÃ§erli"
 
 class protect{
 
